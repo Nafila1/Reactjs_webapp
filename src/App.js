@@ -1,4 +1,3 @@
-#this is for mr information
 import React from 'react';
 import './App.css';
 
