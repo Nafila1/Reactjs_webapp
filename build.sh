@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Define Docker Hub credentials
+# Define Docker Hub credentials and image details
 DOCKER_USERNAME="nafilatest"
 DOCKER_PASSWORD="Nafitest-user@2"
-DOCKER_REPOSITORY="dev"
+DOCKER_REPOSITORY="nafi_test_1"
 DOCKER_TAG="latest1"
 
 # Log in to Docker Hub
