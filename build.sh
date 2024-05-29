@@ -4,7 +4,7 @@
 DOCKER_USERNAME="nafilatest"
 DOCKER_PASSWORD="Nafitest-user@2"
 DOCKER_REPOSITORY="dev"
-DOCKER_TAG="latest"
+DOCKER_TAG="latest1"
 
 # Log in to Docker Hub
 echo "$DOCKER_PASSWORD" | docker login --username "$DOCKER_USERNAME" --password-stdin
